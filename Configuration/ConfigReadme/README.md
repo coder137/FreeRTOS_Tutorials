@@ -31,6 +31,8 @@ Note: This is for the Windows operating system
 
 ### C/C++ General
 
+Preprocessor Include Path, Macros etc -> Providers
+
 1. CDT GCC Build Output Parser
 
 	`xtensa-esp32-elf-(g?cc)|([gc]\+\+)|(clang)`
